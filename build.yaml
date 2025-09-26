@@ -3,4 +3,6 @@ include:
     shield: totem_left
   - board: seeeduino_xiao_ble
     shield: totem_right
+  - board: nice_nano_v2
+    shield: totem_central_dongle dongle_display
 # there is no settingsreset (needed) for the XIAO
