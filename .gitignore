@@ -1,4 +1,6 @@
 firmware.zip
+*.uf2
+artifacts/
 keymap.afdesign
 zmk-config-bsag.code-workspace
 combo_keymap.afdesign
