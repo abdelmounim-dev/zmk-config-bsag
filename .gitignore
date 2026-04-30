@@ -6,3 +6,4 @@ zmk-config-bsag.code-workspace
 combo_keymap.afdesign
 combo_keymap.afdesign~lock~
 keymap.afdesign~lock~
+.claude/
