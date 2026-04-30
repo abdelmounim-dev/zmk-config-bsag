@@ -7,6 +7,7 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
   - display
+  - i2c_oled
 siblings:
   - totem_left
   - totem_right

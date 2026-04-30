@@ -6,7 +6,7 @@ include:
     shield: totem_right
     artifact-name: totem_right
   - board: nice_nano/nrf52840/zmk
-    shield: totem_central_dongle
+    shield: totem_central_dongle dongle_display
     artifact-name: totem_central_dongle
   - board: xiao_ble//zmk
     shield: settings_reset
