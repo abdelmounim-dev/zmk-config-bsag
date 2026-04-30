@@ -5,12 +5,12 @@ include:
   - board: xiao_ble//zmk
     shield: totem_right
     artifact-name: totem_right
-  - board: nice_nano_v2
+  - board: nice_nano/nrf52840/zmk
     shield: totem_central_dongle
     artifact-name: totem_central_dongle
   - board: xiao_ble//zmk
     shield: settings_reset
     artifact-name: settings_reset
-  - board: nice_nano_v2
+  - board: nice_nano/nrf52840/zmk
     shield: settings_reset
-    artifact-name: settings_reset_nice_nano_v2
+    artifact-name: settings_reset_nice_nano
